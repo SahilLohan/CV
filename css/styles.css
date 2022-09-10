@@ -1,0 +1,29 @@
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: black;
+  width: 7%;
+}
+
+body{
+  background-color: #FFEBEE;
+}
+
+a{
+  color: black;
+}
+
+a:hover{
+  color: blue;
+}
+
+
+
+/*********************************selector tags********************************/
+
+
+.friend:hover{
+  background-color: gold;
+
+}
